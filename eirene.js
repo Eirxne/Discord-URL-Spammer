@@ -13,19 +13,19 @@ const axios = require("axios")
 
 //-----------------------------
 client1.on("ready", () => {
-    client1.user.setActivity("Eirene ❤️ AxePrime");
+    client1.user.setActivity("Eirene ❤️ Dark");
     console.log(client1.user.tag)
 })
 
 
 client1.on("ready", () => {
-    let url = "veronica"
-    let guild = client1.guilds.cache.get("709851824563421247")
+    let url = "shy"
+    let guild = client1.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
         axios({
             method: "patch",
-            url: `https://discord.com/api/v6/guilds/709851824563421247/vanity-url`,
+            url: `https://discord.com/api/v6/guilds/887281354113425428/vanity-url`,
             data: { code: url },
             headers: { authorization: `Bot ${client1.token}` }
         }).catch(() => {
@@ -38,19 +38,19 @@ client1.login("ODQyOTU2MTU1ODg1NDUzMzYy.YJ82GA.eCM8YBQLkYoDup4d9YUuH3ZgDQ4")
 //-----------------------------
 //-----------------------------
 client2.on("ready", () => {
-    client2.user.setActivity("Eirene ❤️ AxePrime");
+    client2.user.setActivity("Eirene ❤️ Dark");
     console.log(client2.user.tag)
 })
 
 
 client2.on("ready", () => {
-    let url = "veronica"
-    let guild = client2.guilds.cache.get("709851824563421247")
+    let url = "shy"
+    let guild = client2.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
         axios({
             method: "patch",
-            url: `https://discord.com/api/v6/guilds/709851824563421247/vanity-url`,
+            url: `https://discord.com/api/v6/guilds/887281354113425428/vanity-url`,
             data: { code: url },
             headers: { authorization: `Bot ${client2.token}` }
         }).catch(() => {
@@ -63,19 +63,19 @@ client2.login("ODQyOTU2Mjk2MDA0MTczODg0.YJ82Og.ReqxEahu6yl4utKBjkMYKd2BWN4")
 //-----------------------------
 //-----------------------------
 client3.on("ready", () => {
-    client3.user.setActivity("Eirene ❤️ AxePrime");
+    client3.user.setActivity("Eirene ❤️ Dark");
     console.log(client3.user.tag)
 })
 
 
 client3.on("ready", () => {
-    let url = "veronica"
-    let guild = client3.guilds.cache.get("709851824563421247")
+    let url = "shy"
+    let guild = client3.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
         axios({
             method: "patch",
-            url: `https://discord.com/api/v6/guilds/709851824563421247/vanity-url`,
+            url: `https://discord.com/api/v6/guilds/887281354113425428/vanity-url`,
             data: { code: url },
             headers: { authorization: `Bot ${client3.token}` }
         }).catch(() => {
@@ -88,19 +88,19 @@ client3.login("ODQ0MjM2Nzc2Mzc3NDE3NzUw.YKPexA.AaGSYPl2lVcgW31oYDKqc12Gj2g")
 //-----------------------------
 //-----------------------------
 client4.on("ready", () => {
-    client4.user.setActivity("Eirene ❤️ AxePrime");
+    client4.user.setActivity("Eirene ❤️ Dark");
     console.log(client4.user.tag)
 })
 
 
 client4.on("ready", () => {
-    let url = "veronica"
-    let guild = client4.guilds.cache.get("709851824563421247")
+    let url = "shy"
+    let guild = client4.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
         axios({
             method: "patch",
-            url: `https://discord.com/api/v6/guilds/709851824563421247/vanity-url`,
+            url: `https://discord.com/api/v6/guilds/887281354113425428/vanity-url`,
             data: { code: url },
             headers: { authorization: `Bot ${client4.token}` }
         }).catch(() => {
@@ -113,19 +113,19 @@ client4.login("ODQ0MjM3MTA2OTE3NTM5OTM4.YKPfEw.Q_N0L2zkh34U7WxFCa4XZxc5Js4")
 //-----------------------------
 //-----------------------------
 client5.on("ready", () => {
-    client5.user.setActivity("Eirene ❤️ AxePrime");
+    client5.user.setActivity("Eirene ❤️ Dark");
     console.log(client5.user.tag)
 })
 
 
 client5.on("ready", () => {
-    let url = "veronica"
-    let guild = client5.guilds.cache.get("709851824563421247")
+    let url = "shy"
+    let guild = client5.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
         axios({
             method: "patch",
-            url: `https://discord.com/api/v6/guilds/709851824563421247/vanity-url`,
+            url: `https://discord.com/api/v6/guilds/887281354113425428/vanity-url`,
             data: { code: url },
             headers: { authorization: `Bot ${client5.token}` }
         }).catch(() => {
@@ -138,19 +138,19 @@ client5.login("ODQ0MjM3MTU1MzY1ODE0MzMz.YKPfHw.R-o7Tx1inRk10qUKFIuAuP_5D3M")
 //-----------------------------
 //-----------------------------
 client6.on("ready", () => {
-    client6.user.setActivity("Eirene ❤️ AxePrime");
+    client6.user.setActivity("Eirene ❤️ Dark");
     console.log(client6.user.tag)
 })
 
 
 client6.on("ready", () => {
-    let url = "veronica"
-    let guild = client6.guilds.cache.get("709851824563421247")
+    let url = "shy"
+    let guild = client6.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
         axios({
             method: "patch",
-            url: `https://discord.com/api/v6/guilds/709851824563421247/vanity-url`,
+            url: `https://discord.com/api/v6/guilds/887281354113425428/vanity-url`,
             data: { code: url },
             headers: { authorization: `Bot ${client6.token}` }
         }).catch(() => {
@@ -163,19 +163,19 @@ client6.login("ODQ0MjM3MjAyNzg3NTMyODM2.YKPfKg.2yZEDJyoR3hTnbctaeYuWWjTGFE")
 //-----------------------------
 //-----------------------------
 client7.on("ready", () => {
-    client7.user.setActivity("Eirene ❤️ AxePrime");
+    client7.user.setActivity("Eirene ❤️ Dark");
     console.log(client7.user.tag)
 })
 
 
 client7.on("ready", () => {
-    let url = "veronica"
-    let guild = client7.guilds.cache.get("709851824563421247")
+    let url = "shy"
+    let guild = client7.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
         axios({
             method: "patch",
-            url: `https://discord.com/api/v6/guilds/709851824563421247/vanity-url`,
+            url: `https://discord.com/api/v6/guilds/887281354113425428/vanity-url`,
             data: { code: url },
             headers: { authorization: `Bot ${client7.token}` }
         }).catch(() => {
@@ -188,19 +188,19 @@ client7.login("ODUwNzIxNzc2ODY5NTcyNjcw.YLt2ZQ.DC7KsnG5nagIcjGnFlu0mFvv8d4")
 //-----------------------------
 //-----------------------------
 client8.on("ready", () => {
-    client8.user.setActivity("Eirene ❤️ AxePrime");
+    client8.user.setActivity("Eirene ❤️ Dark");
     console.log(client8.user.tag)
 })
 
 
 client8.on("ready", () => {
-    let url = "veronica"
-    let guild = client8.guilds.cache.get("709851824563421247")
+    let url = "shy"
+    let guild = client8.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
         axios({
             method: "patch",
-            url: `https://discord.com/api/v6/guilds/709851824563421247/vanity-url`,
+            url: `https://discord.com/api/v6/guilds/887281354113425428/vanity-url`,
             data: { code: url },
             headers: { authorization: `Bot ${client8.token}` }
         }).catch(() => {
@@ -213,19 +213,19 @@ client8.login("ODUwNzIxODM4Njc4MTQ3MDgz.YLt2cw.6STvc0kyr-h9mH3phz0VPnR2qfo")
 //-----------------------------
 //-----------------------------
 client9.on("ready", () => {
-    client9.user.setActivity("Eirene ❤️ AxePrime");
+    client9.user.setActivity("Eirene ❤️ Dark");
     console.log(client9.user.tag)
 })
 
 
 client9.on("ready", () => {
-    let url = "veronica"
-    let guild = client9.guilds.cache.get("709851824563421247")
+    let url = "shy"
+    let guild = client9.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
         axios({
             method: "patch",
-            url: `https://discord.com/api/v6/guilds/709851824563421247/vanity-url`,
+            url: `https://discord.com/api/v6/guilds/887281354113425428/vanity-url`,
             data: { code: url },
             headers: { authorization: `Bot ${client9.token}` }
         }).catch(() => {
@@ -234,23 +234,23 @@ client9.on("ready", () => {
     }, 1200)
 })
 
-client9.login("ODUwNzIyNjA4MDE3MzA5NzE2.YLt3Kw.cLPptSHf9xuX_GUB_6bfPsodfZI")
+client9.login("ODUwNzIyNjA4MDE3MzA5NzE2.YLt3Kw.rEAUwrU_hA2K21WXq9QcSU0KfrQ")
 //-----------------------------
 //-----------------------------
 client10.on("ready", () => {
-    client10.user.setActivity("Eirene ❤️ AxePrime");
+    client10.user.setActivity("Eirene ❤️ Dark");
     console.log(client10.user.tag)
 })
 
 
 client10.on("ready", () => {
-    let url = "veronica"
-    let guild = client10.guilds.cache.get("709851824563421247")
+    let url = "shy"
+    let guild = client10.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
         axios({
             method: "patch",
-            url: `https://discord.com/api/v6/guilds/709851824563421247/vanity-url`,
+            url: `https://discord.com/api/v6/guilds/887281354113425428/vanity-url`,
             data: { code: url },
             headers: { authorization: `Bot ${client10.token}` }
         }).catch(() => {
@@ -259,5 +259,5 @@ client10.on("ready", () => {
     }, 1200)
 })
 
-client10.login("ODUwNzIyNzA0NDA3NjU4NDk3.YLt3Qg.8wEHBY15aat0hwP4r9HGZ5o1OVQ")
+client10.login("ODUwNzIyNzA0NDA3NjU4NDk3.YLt3Qg.8gDUZ-BPvfgLCwJJzme_7cUq1Do")
 //-----------------------------
