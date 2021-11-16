@@ -19,7 +19,7 @@ client1.on("ready", () => {
 
 
 client1.on("ready", () => {
-    let url = "shy"
+    let url = "1874"
     let guild = client1.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
@@ -44,7 +44,7 @@ client2.on("ready", () => {
 
 
 client2.on("ready", () => {
-    let url = "shy"
+    let url = "1874"
     let guild = client2.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
@@ -69,7 +69,7 @@ client3.on("ready", () => {
 
 
 client3.on("ready", () => {
-    let url = "shy"
+    let url = "1874"
     let guild = client3.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
@@ -94,7 +94,7 @@ client4.on("ready", () => {
 
 
 client4.on("ready", () => {
-    let url = "shy"
+    let url = "1874"
     let guild = client4.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
@@ -119,7 +119,7 @@ client5.on("ready", () => {
 
 
 client5.on("ready", () => {
-    let url = "shy"
+    let url = "1874"
     let guild = client5.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
@@ -144,7 +144,7 @@ client6.on("ready", () => {
 
 
 client6.on("ready", () => {
-    let url = "shy"
+    let url = "1874"
     let guild = client6.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
@@ -169,7 +169,7 @@ client7.on("ready", () => {
 
 
 client7.on("ready", () => {
-    let url = "shy"
+    let url = "1874"
     let guild = client7.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
@@ -194,7 +194,7 @@ client8.on("ready", () => {
 
 
 client8.on("ready", () => {
-    let url = "shy"
+    let url = "1874"
     let guild = client8.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
@@ -219,7 +219,7 @@ client9.on("ready", () => {
 
 
 client9.on("ready", () => {
-    let url = "shy"
+    let url = "1874"
     let guild = client9.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
@@ -244,7 +244,7 @@ client10.on("ready", () => {
 
 
 client10.on("ready", () => {
-    let url = "shy"
+    let url = "1874"
     let guild = client10.guilds.cache.get("887281354113425428")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
