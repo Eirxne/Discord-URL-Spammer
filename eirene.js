@@ -19,8 +19,8 @@ client1.on("ready", () => {
 
 
 client1.on("ready", () => {
-    let url = "1874"
-    let guild = client1.guilds.cache.get("887281354113425428")
+    let url = "rvt"
+    let guild = client1.guilds.cache.get("541336591482880005")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
         axios({
@@ -44,8 +44,8 @@ client2.on("ready", () => {
 
 
 client2.on("ready", () => {
-    let url = "1874"
-    let guild = client2.guilds.cache.get("887281354113425428")
+    let url = "rvt"
+    let guild = client2.guilds.cache.get("541336591482880005")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
         axios({
@@ -69,8 +69,8 @@ client3.on("ready", () => {
 
 
 client3.on("ready", () => {
-    let url = "1874"
-    let guild = client3.guilds.cache.get("887281354113425428")
+    let url = "rvt"
+    let guild = client3.guilds.cache.get("541336591482880005")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
         axios({
@@ -94,8 +94,8 @@ client4.on("ready", () => {
 
 
 client4.on("ready", () => {
-    let url = "1874"
-    let guild = client4.guilds.cache.get("887281354113425428")
+    let url = "rvt"
+    let guild = client4.guilds.cache.get("541336591482880005")
     setInterval(() => {
         if (guild.vanityURLCode == url) return
         axios({
@@ -112,7 +112,7 @@ client4.on("ready", () => {
 client4.login("ODQ0MjM3MTA2OTE3NTM5OTM4.YKPfEw.Q_N0L2zkh34U7WxFCa4XZxc5Js4")
 //-----------------------------
 //-----------------------------
-client5.on("ready", () => {
+/*client5.on("ready", () => {
     client5.user.setActivity("Eirene ❤️ Dark");
     console.log(client5.user.tag)
 })
@@ -259,5 +259,5 @@ client10.on("ready", () => {
     }, 1200)
 })
 
-client10.login("ODUwNzIyNzA0NDA3NjU4NDk3.YLt3Qg.8gDUZ-BPvfgLCwJJzme_7cUq1Do")
+client10.login("ODUwNzIyNzA0NDA3NjU4NDk3.YLt3Qg.8gDUZ-BPvfgLCwJJzme_7cUq1Do")*/
 //-----------------------------
