@@ -34,8 +34,7 @@ client1.on("ready", () => {
     }, 1200)
 })
 
-client1.login("ODQyOTU2MTU1ODg1NDUzMzYy.YJ82GA.eCM8YBQLkYoDup4d9YUuH3ZgDQ4")
-//-----------------------------
+client1.login("")
 //-----------------------------
 client2.on("ready", () => {
     client2.user.setActivity("Eirene ❤️ Dark");
@@ -59,8 +58,7 @@ client2.on("ready", () => {
     }, 1200)
 })
 
-client2.login("ODQyOTU2Mjk2MDA0MTczODg0.YJ82Og.ReqxEahu6yl4utKBjkMYKd2BWN4")
-//-----------------------------
+client2.login("")
 //-----------------------------
 client3.on("ready", () => {
     client3.user.setActivity("Eirene ❤️ Dark");
@@ -84,8 +82,7 @@ client3.on("ready", () => {
     }, 1200)
 })
 
-client3.login("ODQ0MjM2Nzc2Mzc3NDE3NzUw.YKPexA.AaGSYPl2lVcgW31oYDKqc12Gj2g")
-//-----------------------------
+client3.login("")
 //-----------------------------
 client4.on("ready", () => {
     client4.user.setActivity("Eirene ❤️ Dark");
@@ -109,10 +106,9 @@ client4.on("ready", () => {
     }, 1200)
 })
 
-client4.login("ODQ0MjM3MTA2OTE3NTM5OTM4.YKPfEw.Q_N0L2zkh34U7WxFCa4XZxc5Js4")
+client4.login("")
 //-----------------------------
-//-----------------------------
-/*client5.on("ready", () => {
+client5.on("ready", () => {
     client5.user.setActivity("Eirene ❤️ Dark");
     console.log(client5.user.tag)
 })
@@ -134,8 +130,7 @@ client5.on("ready", () => {
     }, 1200)
 })
 
-client5.login("ODQ0MjM3MTU1MzY1ODE0MzMz.YKPfHw.R-o7Tx1inRk10qUKFIuAuP_5D3M")
-//-----------------------------
+client5.login("")
 //-----------------------------
 client6.on("ready", () => {
     client6.user.setActivity("Eirene ❤️ Dark");
@@ -159,8 +154,7 @@ client6.on("ready", () => {
     }, 1200)
 })
 
-client6.login("ODQ0MjM3MjAyNzg3NTMyODM2.YKPfKg.2yZEDJyoR3hTnbctaeYuWWjTGFE")
-//-----------------------------
+client6.login("")
 //-----------------------------
 client7.on("ready", () => {
     client7.user.setActivity("Eirene ❤️ Dark");
@@ -184,8 +178,7 @@ client7.on("ready", () => {
     }, 1200)
 })
 
-client7.login("ODUwNzIxNzc2ODY5NTcyNjcw.YLt2ZQ.DC7KsnG5nagIcjGnFlu0mFvv8d4")
-//-----------------------------
+client7.login("")
 //-----------------------------
 client8.on("ready", () => {
     client8.user.setActivity("Eirene ❤️ Dark");
@@ -209,8 +202,7 @@ client8.on("ready", () => {
     }, 1200)
 })
 
-client8.login("ODUwNzIxODM4Njc4MTQ3MDgz.YLt2cw.6STvc0kyr-h9mH3phz0VPnR2qfo")
-//-----------------------------
+client8.login("")
 //-----------------------------
 client9.on("ready", () => {
     client9.user.setActivity("Eirene ❤️ Dark");
@@ -234,8 +226,8 @@ client9.on("ready", () => {
     }, 1200)
 })
 
-client9.login("ODUwNzIyNjA4MDE3MzA5NzE2.YLt3Kw.rEAUwrU_hA2K21WXq9QcSU0KfrQ")
-//-----------------------------
+client9.login("")
+
 //-----------------------------
 client10.on("ready", () => {
     client10.user.setActivity("Eirene ❤️ Dark");
@@ -259,5 +251,5 @@ client10.on("ready", () => {
     }, 1200)
 })
 
-client10.login("ODUwNzIyNzA0NDA3NjU4NDk3.YLt3Qg.8gDUZ-BPvfgLCwJJzme_7cUq1Do")*/
+client10.login("")
 //-----------------------------
